@@ -1,6 +1,6 @@
 ## Image Recognition Project using Keras ##
 
-Developed an image recognition system using TensorFlow and Keras to classify objects across various categories, regardless of background context. Built an interactive user interface with Streamlit and implemented the machine learning model using Python.
+Developed an image recognition system using Keras to classify objects across various categories, regardless of background context. Built an interactive user interface with Streamlit and implemented the machine learning model using Python.
 
 ### how to run:
 1] run the model.py file entirely first.
